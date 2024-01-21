@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://u8views.com/github/mstrielnikov"><img src="https://u8views.com/api/v1/github/profiles/37501284/views/day-week-month-total-count.svg"></a>
+
 <img alt="Maksym's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
 
