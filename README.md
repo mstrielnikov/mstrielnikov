@@ -24,6 +24,7 @@ Powered by https://rahuldkjain.github.io/gh-profile-readme-generator/
 See also https://github.com/abhisheknaiidu/awesome-github-profile-readme
 Cool badges could be found at https://shields.io/
 Gratitude to https://github.com/madushadhanushka/github-readme?tab=readme-ov-file
+Github stats https://github.com/anuraghazra/github-readme-stats
 
 **mstrielnikov/mstrielnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
