@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-<a href="https://u8views.com/github/mstrielnikov"><img src="https://u8views.com/api/v1/github/profiles/37501284/views/day-week-month-total-count.svg"></a>
+
 
 <img alt="Maksym's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
+<a href="https://u8views.com/github/mstrielnikov"><img src="https://u8views.com/api/v1/github/profiles/37501284/views/day-week-month-total-count.svg"></a>
+
 <!--
 **mstrielnikov/mstrielnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
