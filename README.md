@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=transparent) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 
 <a href="https://u8views.com/github/mstrielnikov"><img src="https://u8views.com/api/v1/github/profiles/37501284/views/day-week-month-total-count.svg"></a>
