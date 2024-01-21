@@ -2,6 +2,19 @@
 
 
 <div class="image-container">
+      <style>
+    .image-container {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .image-container img {
+      width: 48%; /* You can adjust this value based on your preference */
+      max-width: 100%;
+      height: 200px; /* Set a fixed height for the images */
+      object-fit: cover; /* Maintain aspect ratio */
+    }
+  </style>
     <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
