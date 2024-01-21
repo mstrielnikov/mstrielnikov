@@ -21,6 +21,9 @@
 
 <!--
 Powered by https://rahuldkjain.github.io/gh-profile-readme-generator/
+See also https://github.com/abhisheknaiidu/awesome-github-profile-readme
+Cool badges could be found at https://shields.io/
+
 **mstrielnikov/mstrielnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
