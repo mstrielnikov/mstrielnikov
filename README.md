@@ -45,11 +45,8 @@ alt="firebase" width="40" height="40" /> </a>
   </p>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a>
-</p>
-
-<br>
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
