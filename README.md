@@ -35,8 +35,6 @@ alt="firebase" width="40" height="40" /> </a>
 
 <img src="https://myreadme.vercel.app/api/embed/mstrielnikov?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a></p>
-
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
@@ -54,7 +52,7 @@ See also https://github.com/abhisheknaiidu/awesome-github-profile-readme
 Cool badges could be found at https://shields.io/
 Gratitude to https://github.com/madushadhanushka/github-readme?tab=readme-ov-file
 Github stats https://github.com/anuraghazra/github-readme-stats
-
+Trophy <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a></p>
 **mstrielnikov/mstrielnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
