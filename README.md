@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm mstrielnikov</h1>
 <h3 align="center">Cloud native developer at day / cryptography researcher at night</h3>
 
+<h3 align="left"> Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/379368879299887114" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Profile" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Software development</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -34,17 +44,6 @@ alt="firebase" width="40" height="40" /> </a>
 </p>
 
 <img src="https://myreadme.vercel.app/api/embed/mstrielnikov?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<h3 align="left"> Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/379368879299887114" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Profile" height="30" width="40" />
-  </a>
-</p>
-
 
 <!--
 Powered by https://rahuldkjain.github.io/gh-profile-readme-generator/
