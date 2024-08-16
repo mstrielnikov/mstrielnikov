@@ -32,7 +32,7 @@ alt="firebase" width="40" height="40"/></a>
 <a href="https://neo4j.com/" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" alt="neo4j" width="40" height="40"/> </a>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=donut"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/mstrielnikov/github-readme-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/mstrielnikov?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
 
