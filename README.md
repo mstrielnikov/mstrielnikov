@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm mstrielnikov</h1>
 <h3 align="center">Infrastructure developer at day / cryptography researcher at night</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mstrielnikov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mstrielnikov/" height="30" width="40" /></a>
+<a href="https://discord.com/users/379368879299887114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cryptographymonk" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Software development</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -33,19 +39,17 @@ alt="firebase" width="40" height="40" /> </a>
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact" alt="mstrielnikov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&locale=en" alt="mstrielnikov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mstrielnikov&" alt="mstrielnikov" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mstrielnikov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mstrielnikov/" height="30" width="40" /></a>
-<a href="https://discord.com/users/379368879299887114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cryptographymonk" height="30" width="40" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact" alt="mstrielnikov" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&locale=en" alt="mstrielnikov" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mstrielnikov&" alt="mstrielnikov" />
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a>
+</p>
 
 <!--
 Powered by https://rahuldkjain.github.io/gh-profile-readme-generator/
