@@ -42,10 +42,10 @@ alt="firebase" width="40" height="40" /> </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact" alt="mstrielnikov" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&locale=en" alt="mstrielnikov" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&locale=en" alt="mstrielnikov" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mstrielnikov&" alt="mstrielnikov" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mstrielnikov&" alt="mstrielnikov" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a>
