@@ -22,7 +22,7 @@
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Data science & Engineering</h3>
+<h3 align="left">Data science</h3>
 <a href= target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/> </a>
 <a href= target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href= target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
