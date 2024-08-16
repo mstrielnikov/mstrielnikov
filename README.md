@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm mstrielnikov</h1>
 <h3 align="center">Infrastructure developer at day / cryptography researcher at night</h3>
 
-<h3 align="left">Connect with me
 <p align="left">
+<h3 align="left"> Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mstrielnikov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mstrielnikov/" height="30" width="40" /></a>
 <a href="https://discord.com/users/379368879299887114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cryptographymonk" height="30" width="40" /></a>
 </p>
-</h3>
+
 
 <h3 align="left">Software development</h3>
 <p align="left">
