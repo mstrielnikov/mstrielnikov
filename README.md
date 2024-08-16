@@ -41,6 +41,12 @@
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Data science</h3>
+<a href= target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/> </a> 
+
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact" alt="mstrielnikov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&locale=en" alt="mstrielnikov" /></p>
