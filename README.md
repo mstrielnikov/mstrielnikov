@@ -35,18 +35,6 @@ alt="firebase" width="40" height="40" /> </a>
 
 <img src="https://myreadme.vercel.app/api/embed/mstrielnikov?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<div align="left">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstrielnikov&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstrielnikov&" alt="GitHub Streak" />
-  </p>
-</div>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a></p>
 
 <h3 align="left"> Connect with me:</h3>
