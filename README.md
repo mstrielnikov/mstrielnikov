@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mstrielnikov</h1>
-<h3 align="center">Infrastructure developer at day / cryptography researcher at night</h3>
+<h3 align="center">Cloud native developer at day / cryptography researcher at night</h3>
 
 <h3 align="left">Software development</h3>
 <p align="left">
