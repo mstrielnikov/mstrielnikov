@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm mstrielnikov</h1>
 <h3 align="center">Cloud native developer at day / cryptography researcher at night</h3>
 
+<img align="right" alt="Static Badge" src="https://img.shields.io/badge/PhD-Cryptography-blue">
+
+
 <h3 align="left">Software development</h3>
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
