@@ -32,9 +32,7 @@ alt="firebase" width="40" height="40"/></a>
 <a href="https://neo4j.com/" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" alt="neo4j" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=compact)
-
-<img src="https://myreadme.vercel.app/api/embed/mstrielnikov?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/mstrielnikov?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <p align="right">
   <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
@@ -52,7 +50,9 @@ See also https://github.com/abhisheknaiidu/awesome-github-profile-readme
 Cool badges could be found at https://shields.io/
 Gratitude to https://github.com/madushadhanushka/github-readme?tab=readme-ov-file
 Github stats https://github.com/anuraghazra/github-readme-stats
-Trophy <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" /></a></p>
+Trophy <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstrielnikov" alt="mstrielnikov" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=compact)
+</a></p>
 **mstrielnikov/mstrielnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
