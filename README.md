@@ -2,7 +2,7 @@
 <h3 align="center">Cloud native developer at day / cryptography researcher at night</h3>
 
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/BS-Cybersecurity-blue">
-**+** <img align="right" alt="Static Badge" src="https://img.shields.io/badge/MS-ComputerScience-blue">
+**\+** <img align="right" alt="Static Badge" src="https://img.shields.io/badge/MS-ComputerScience-blue">
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/PhD-AppliedMath-blue">
 
 <h3 align="left">Software development</h3>
