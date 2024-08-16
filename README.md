@@ -16,7 +16,7 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40 />
  alt="rust" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href=https://soliditylang.org/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> alt="c" width="40" height="40"/> </a>
+<a href=https://soliditylang.org/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Platforms and clouds</h3>
