@@ -33,8 +33,10 @@
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=compact)
-![Mstrielnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile)
+| [![Mstrielnikov GitHub stats](https://api.gabecook.com/api/github-stats/stats)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://api.gabecook.com/api/github-stats/top-langs)](https://github.com/anuraghazra/github-readme-stats?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 
 <p align="right">
   <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
@@ -57,6 +59,9 @@ Trophy <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy
 </a></p>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" 
 alt="firebase" width="40" height="40"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=compact)
+https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile
+
 **mstrielnikov/mstrielnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
