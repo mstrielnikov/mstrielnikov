@@ -33,7 +33,7 @@
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-| ![Mstrielnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile) | [Most Used Languages](https://github.com/anuraghazra/github-readme-stats?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile) |
+| ![Mstrielnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile) | ![Most Used Languages](https://github.com/anuraghazra/github-readme-stats?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
