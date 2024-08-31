@@ -34,7 +34,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=compact)
-![Mstrielnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&rank_icon=percentile)
+![Mstrielnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile)
 
 <p align="right">
   <a href="https://www.linkedin.com/in/mstrielnikov/" target="_blank">
