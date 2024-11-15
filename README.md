@@ -5,7 +5,6 @@
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/MSc-ComputerScience-blue">
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/PhD-AppliedMath-blue">
 
-<h3 align="left">Software development</h3>
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40 />
