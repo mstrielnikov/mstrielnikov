@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mstrielnikov</h1>
-<h3 align="center">Software engineer (Cloud, data, edge, ML, blockchain) and cryptography researcher in practical FHE applications</h3>
+<h3 align="center">Software engineer (Cloud, edge, ML, blockchain) and cryptography researcher in practical ZKP + FHE</h3>
 
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/BSc-Cybersecurity-blue">
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/MSc-ComputerScience-blue">
