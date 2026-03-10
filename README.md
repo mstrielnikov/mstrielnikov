@@ -5,6 +5,8 @@
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/MSc-ComputerScience-blue">
 <img align="right" alt="Static Badge" src="https://img.shields.io/badge/PhD-AppliedMath-blue">
 
+<br>
+
 <p align="left">
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
 <a href="https://llvm.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" alt="LLVM" width="40" height="40"/></a>
