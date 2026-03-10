@@ -28,12 +28,13 @@
 
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/></a>
+<a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" alt="grpc" width="40" height="40"/></a>
 </p>
 
 <p align="left">
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40/> </a>
 </p>
+<br>
 
 | ![Mstrielnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrielnikov&show_icons=true&theme=catppuccin_latte&rank_icon=percentile) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrielnikov&layout=compact&size_weight=0.5&count_weight=0.5) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
