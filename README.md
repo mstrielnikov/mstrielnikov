@@ -27,8 +27,8 @@
     <tr>
       <td width="33%" align="center" valign="top" style="background: linear-gradient(145deg, #1e1e2e, #181825); border: 1px solid #89b4fa; border-radius: 20px; padding: 25px;">
         <h3 style="color: #89b4fa; margin-bottom: 20px;">🚀 Systems</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" width="35" /> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35/>&nbsp;
         <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="24" />
         <p style="color: #6c7086; font-size: 0.9em; margin-top: 15px;">Low-Level, Edge, HPC & GPU</p>
       </td>
